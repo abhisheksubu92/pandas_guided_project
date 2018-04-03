@@ -1,5 +1,4 @@
 # Using pandas to create basic informative reports
-Great Work,
 
 Hello budding Data Scientists, let's try out a guided 
 project which will enable you to get answers to questions using basic python,
